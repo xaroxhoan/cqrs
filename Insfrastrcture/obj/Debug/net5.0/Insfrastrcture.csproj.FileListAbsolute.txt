@@ -1,0 +1,14 @@
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\bin\Debug\net5.0\Insfrastrcture.deps.json
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\bin\Debug\net5.0\Insfrastrcture.runtimeconfig.json
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\bin\Debug\net5.0\Insfrastrcture.runtimeconfig.dev.json
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\bin\Debug\net5.0\Insfrastrcture.dll
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\bin\Debug\net5.0\ref\Insfrastrcture.dll
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\bin\Debug\net5.0\Insfrastrcture.pdb
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\obj\Debug\net5.0\Insfrastrcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\obj\Debug\net5.0\Insfrastrcture.AssemblyInfoInputs.cache
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\obj\Debug\net5.0\Insfrastrcture.AssemblyInfo.cs
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\obj\Debug\net5.0\Insfrastrcture.csproj.CoreCompileInputs.cache
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\obj\Debug\net5.0\Insfrastrcture.dll
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\obj\Debug\net5.0\ref\Insfrastrcture.dll
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\obj\Debug\net5.0\Insfrastrcture.pdb
+C:\Users\z3\source\repos\ASP\CQRS1\Insfrastrcture\obj\Debug\net5.0\Insfrastrcture.genruntimeconfig.cache

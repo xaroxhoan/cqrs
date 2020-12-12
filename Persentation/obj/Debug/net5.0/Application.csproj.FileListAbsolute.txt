@@ -1,0 +1,15 @@
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\bin\Debug\net5.0\Application.deps.json
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\bin\Debug\net5.0\Application.runtimeconfig.json
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\bin\Debug\net5.0\Application.runtimeconfig.dev.json
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\bin\Debug\net5.0\Application.dll
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\bin\Debug\net5.0\ref\Application.dll
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\bin\Debug\net5.0\Application.pdb
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\obj\Debug\net5.0\Application.dll
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\obj\Debug\net5.0\ref\Application.dll
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\obj\Debug\net5.0\Application.pdb
+C:\Users\z3\source\repos\ASP\CQRS1\Persentation\obj\Debug\net5.0\Application.genruntimeconfig.cache
